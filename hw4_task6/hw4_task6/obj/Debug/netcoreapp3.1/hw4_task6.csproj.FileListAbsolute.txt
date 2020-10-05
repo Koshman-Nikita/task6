@@ -1,0 +1,13 @@
+C:\Users\WS777\source\repos\hw4_task6\hw4_task6\bin\Debug\netcoreapp3.1\hw4_task6.exe
+C:\Users\WS777\source\repos\hw4_task6\hw4_task6\bin\Debug\netcoreapp3.1\hw4_task6.deps.json
+C:\Users\WS777\source\repos\hw4_task6\hw4_task6\bin\Debug\netcoreapp3.1\hw4_task6.runtimeconfig.json
+C:\Users\WS777\source\repos\hw4_task6\hw4_task6\bin\Debug\netcoreapp3.1\hw4_task6.runtimeconfig.dev.json
+C:\Users\WS777\source\repos\hw4_task6\hw4_task6\bin\Debug\netcoreapp3.1\hw4_task6.dll
+C:\Users\WS777\source\repos\hw4_task6\hw4_task6\bin\Debug\netcoreapp3.1\hw4_task6.pdb
+C:\Users\WS777\source\repos\hw4_task6\hw4_task6\obj\Debug\netcoreapp3.1\hw4_task6.csprojAssemblyReference.cache
+C:\Users\WS777\source\repos\hw4_task6\hw4_task6\obj\Debug\netcoreapp3.1\hw4_task6.AssemblyInfoInputs.cache
+C:\Users\WS777\source\repos\hw4_task6\hw4_task6\obj\Debug\netcoreapp3.1\hw4_task6.AssemblyInfo.cs
+C:\Users\WS777\source\repos\hw4_task6\hw4_task6\obj\Debug\netcoreapp3.1\hw4_task6.csproj.CoreCompileInputs.cache
+C:\Users\WS777\source\repos\hw4_task6\hw4_task6\obj\Debug\netcoreapp3.1\hw4_task6.dll
+C:\Users\WS777\source\repos\hw4_task6\hw4_task6\obj\Debug\netcoreapp3.1\hw4_task6.pdb
+C:\Users\WS777\source\repos\hw4_task6\hw4_task6\obj\Debug\netcoreapp3.1\hw4_task6.genruntimeconfig.cache
